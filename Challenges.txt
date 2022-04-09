@@ -1,0 +1,7 @@
+Challenges faced during project: 
+-Creating environment variables to avoid coding private information in source code
+-Allowing user to enter multiple workouts in a single entry
+-Formatting API requests correctly and reading aPI documentation
+-Getting the current date and time formatted correctly. Reading python datetime documentation
+-Formatting code properly to document the uses of each section of code
+-Formatting README file properly so that other users may use the source code
